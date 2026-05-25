@@ -3,18 +3,9 @@
  * @return {Function}
  */
 var compose = function (functions) {
-    if (functions.length === 0) {
-        return function (x) { return x }
-    }
-
-    let result;
     return function (x) {
-        result = x;
-        for (let i = functions.length - 1; i >= 0; i--) {
-            result = functions[i](result)
-        }
-        return result;
-    }
+        return functions.reduceRight((acc, fn) => fn(acc), x);
+    };
 };
 
 /**
