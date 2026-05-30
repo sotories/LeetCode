@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ellie-shim/LeetCode/tree/main/0228-summary-ranges/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ellie-shim/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/ellie-shim/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/ellie-shim/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ellie-shim/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
@@ -107,11 +110,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ellie-shim/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/ellie-shim/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ellie-shim/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
