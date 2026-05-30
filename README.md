@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ellie-shim/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/ellie-shim/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ellie-shim/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ellie-shim/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ellie-shim/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/ellie-shim/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
