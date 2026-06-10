@@ -3,5 +3,12 @@
  * @return {number[]}
  */
 var separateDigits = function (nums) {
-    return nums.map(v => `${v}`.split("").map(x => Number(x))).flat()
+    let result = [];
+    for (let num of nums) {
+        let str = num.toString();
+        for (let ch of str) {
+            result.push(Number(ch));
+        }
+    }
+    return result;
 };
