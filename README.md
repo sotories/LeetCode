@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ellie-shim/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/ellie-shim/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ellie-shim/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ellie-shim/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ellie-shim/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/ellie-shim/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ellie-shim/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ellie-shim/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ellie-shim/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ellie-shim/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ellie-shim/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
