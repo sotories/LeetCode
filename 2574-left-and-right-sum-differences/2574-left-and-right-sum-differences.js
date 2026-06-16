@@ -3,19 +3,21 @@
  * @return {number[]}
  */
 var leftRightDifference = function (nums) {
-    const leftSum = [0];
-    for (let i = 0; i < nums.length - 1; i++) {
-        const sum = leftSum[i] + nums[i];
-        leftSum.push(sum)
+    const n = nums.length;
+
+    let rightSum = 0;
+    for (const num of nums) {
+        rightSum += num;
     }
 
-    const rightSum = [0];
-    for (let i = nums.length - 1; i > 0; i--) {
-        const sum = rightSum[0] + nums[i]
-        rightSum.unshift(sum)
+    let leftSum = 0;
+    const ans = new Array(n);
+
+    for (let i = 0; i < n; i++) {
+        rightSum -= nums[i];
+        ans[i] = Math.abs(leftSum - rightSum);
+        leftSum += nums[i];
     }
 
-
-
-    return leftSum.map((v, i) => Math.abs(v - rightSum[i]))
+    return ans;
 };
