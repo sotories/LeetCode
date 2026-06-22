@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/ellie-shim/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/ellie-shim/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ellie-shim/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ellie-shim/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ellie-shim/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ellie-shim/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2540-minimum-common-value](https://github.com/ellie-shim/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ellie-shim/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ellie-shim/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ellie-shim/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
