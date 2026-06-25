@@ -5,8 +5,18 @@
  */
 var isAnagram = function (s, t) {
     if (s.length !== t.length) return false;
+    const map = new Map();
 
-    s = [...s].sort().join("");
-    t = [...t].sort().join("");
-    return s === t
+    for (const char of s) {
+        map.set(char, (map.get(char) || 0) + 1)
+    }
+
+    for (const char of t) {
+        if (!map.get(char) || map.get(char) < 1) {
+            return false
+        }
+
+        map.set(char, map.get(char) - 1)
+    }
+    return true
 };
