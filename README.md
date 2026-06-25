@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ellie-shim/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/ellie-shim/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ellie-shim/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ellie-shim/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/ellie-shim/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/ellie-shim/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ellie-shim/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ellie-shim/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/ellie-shim/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ellie-shim/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
