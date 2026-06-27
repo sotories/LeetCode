@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ellie-shim/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ellie-shim/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ellie-shim/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ellie-shim/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/ellie-shim/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ellie-shim/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2540-minimum-common-value](https://github.com/ellie-shim/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/ellie-shim/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ellie-shim/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ellie-shim/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ellie-shim/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/ellie-shim/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/ellie-shim/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ellie-shim/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ellie-shim/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ellie-shim/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
