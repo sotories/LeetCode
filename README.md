@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ellie-shim/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/ellie-shim/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ellie-shim/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ellie-shim/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ellie-shim/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ellie-shim/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ellie-shim/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ellie-shim/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ellie-shim/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ellie-shim/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ellie-shim/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ellie-shim/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ellie-shim/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/ellie-shim/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ellie-shim/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ellie-shim/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ellie-shim/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ellie-shim/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
