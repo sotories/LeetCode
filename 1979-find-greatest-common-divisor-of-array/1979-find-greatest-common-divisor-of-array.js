@@ -1,0 +1,27 @@
+
+function gcd(a, b) {
+    while (b !== 0) {
+        let temp = b;
+        b = a % b;
+        a = temp;
+    }
+
+    return a;
+}
+
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findGCD = function (nums) {
+    let min = nums[0];
+    let max = nums[0];
+
+    for (const num of nums) {
+        min = Math.min(min, num);
+        max = Math.max(max, num);
+    }
+
+    return gcd(min, max);
+};
