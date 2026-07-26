@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/ellie-shim/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ellie-shim/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ellie-shim/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ellie-shim/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ellie-shim/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ellie-shim/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ellie-shim/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/ellie-shim/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/ellie-shim/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ellie-shim/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/ellie-shim/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ellie-shim/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ellie-shim/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ellie-shim/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ellie-shim/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/ellie-shim/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ellie-shim/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ellie-shim/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ellie-shim/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ellie-shim/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
