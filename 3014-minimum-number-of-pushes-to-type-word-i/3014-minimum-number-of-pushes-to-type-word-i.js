@@ -3,7 +3,10 @@
  * @return {number}
  */
 var minimumPushes = function (word) {
-    const q = word.length >> 3;
-    const r = word.length & 7;
-    return ((q << 2) + r) * (q + 1);
+    let pushes = 0;
+    for (let i = 0; i < word.length; i++) {
+        pushes += Math.floor(i / 8) + 1;
+    }
+
+    return pushes;
 };
