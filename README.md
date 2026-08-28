@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ellie-shim/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ellie-shim/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ellie-shim/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ellie-shim/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ellie-shim/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ellie-shim/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ellie-shim/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -304,5 +305,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ellie-shim/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ellie-shim/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
